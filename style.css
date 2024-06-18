@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(231, 182, 107);
+    text-align: center;
+
+}
+.container{
+    height:40%;
+    width: 23%;
+    align-items: center;
+    margin: auto;
+    
+
+
+}
+.game{
+    height: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 11px;
+
+}
+.box{
+    height: 103px;
+    width: 27%;
+    border-radius: 17px;
+    border: none;
+    box-shadow: 0 0 7px;
+    font-size: 41px;
+    color: #7cd718;
+    background-color:#404621;
+}
+.rst-btn{
+    padding: 13px;
+    margin: 19px;
+    background: #124748;
+    color: #b9d909;
+    border-radius: 6px;
+    font-size: 18px;
+}
