@@ -6,17 +6,15 @@
 body{
     background-color: rgb(231, 182, 107);
     text-align: center;
-
 }
+
 .container{
     height:40%;
     width: 23%;
     align-items: center;
-    margin: auto;
-    
-
-
+    margin: auto; 
 }
+
 .game{
     height: 60%;
     display: flex;
@@ -27,7 +25,7 @@ body{
 }
 .box{
     height: 103px;
-    width: 31%;
+    width: 31px;
     border-radius: 17px;
     border: none;
     box-shadow: 0 0 7px;
